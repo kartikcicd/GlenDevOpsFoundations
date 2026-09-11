@@ -1,0 +1,14 @@
+bijjknkljnkmpompmpo
+ojihuiuiniojiojio
+fjeffojfiopfjkopf
+cjorncuefhjcuifnmkekdmioej
+bhdbehjdncjokcmiocjwc
+wcljkdcndwicndjwocm
+cdmciudwhcuinmcd
+cdwchwiuciwjenmcw
+cwcoijwciuewciunwc
+wcwkcnewicniecniewci
+WORKING DIR -> STAGING DIR -> LOCAL REPO -> REMOTE REPO 
+init.       ->. add.       -> commit.    ->
+git init - initializing git in working DIR
+git add - from working dir to staging dir
